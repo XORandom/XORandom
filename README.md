@@ -22,6 +22,7 @@
 ![Google](https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label=)
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Habr](https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 <div>
     <div>
