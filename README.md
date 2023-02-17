@@ -18,11 +18,12 @@
 ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
 ![Google Translate](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Translate&color=4285F4&logo=Google+Translate&logoColor=FFFFFF&label=)
 
-![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
-![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
+![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
+![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
 ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
 ![Microsoft Visio](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Visio&color=3955A3&logo=Microsoft+Visio&logoColor=FFFFFF&label=)
+![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
 
 ![MEGA](https://img.shields.io/static/v1?style=for-the-badge&message=MEGA&color=D9272E&logo=MEGA&logoColor=FFFFFF&label=)
 
