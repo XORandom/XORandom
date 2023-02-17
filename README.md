@@ -3,6 +3,12 @@
 ### List of languages and tools that I know how to use
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
+![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)
+![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
+![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 
 <div>
     <div>
@@ -25,5 +31,3 @@
 </div>
 
 <!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=XORandom&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-Original Design: [Peter Hiro](https://github.com/0xHir0)
