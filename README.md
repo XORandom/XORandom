@@ -28,6 +28,7 @@
 ![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
 
 ![MEGA](https://img.shields.io/static/v1?style=for-the-badge&message=MEGA&color=D9272E&logo=MEGA&logoColor=FFFFFF&label=)
+![Pinterest](https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=BD081C&logo=Pinterest&logoColor=FFFFFF&label=)
 
 
 ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
