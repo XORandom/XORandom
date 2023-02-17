@@ -7,6 +7,7 @@
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 
+![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
 ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
 ![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)
 ![Adobe Acrobat Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Acrobat+Reader&color=EC1C24&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=)
@@ -14,6 +15,13 @@
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
 ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
+![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
+![Google Translate](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Translate&color=4285F4&logo=Google+Translate&logoColor=FFFFFF&label=)
+
+![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
+![Google](https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label=)
+![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
+![Habr](https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=)
 
 <div>
     <div>
