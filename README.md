@@ -3,11 +3,11 @@
 ### List of languages and tools that I know how to use
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
 ![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)
-![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ![Adobe Acrobat Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Acrobat+Reader&color=EC1C24&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
