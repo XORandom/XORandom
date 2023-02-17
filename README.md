@@ -17,6 +17,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
 ![Google Translate](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Translate&color=4285F4&logo=Google+Translate&logoColor=FFFFFF&label=)
+![MEGA](https://img.shields.io/static/v1?style=for-the-badge&message=MEGA&color=D9272E&logo=MEGA&logoColor=FFFFFF&label=)
 
 ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
 ![Google](https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label=)
