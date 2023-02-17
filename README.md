@@ -23,7 +23,7 @@
     <div align=center>
         <h1>Github Stats</h1>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XORandom&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=XORandom7&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=XORandom&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XORandom&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
@@ -38,6 +38,6 @@
     </div>
 </div>
 
-<!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=XORandom7&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=XORandom&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 Original Design: [Peter Hiro](https://github.com/0xHir0)
