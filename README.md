@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###![ReadMe](https://img.shields.io/static/v1?style=for-the-badge&message=ReadMe&color=018EF5&logo=ReadMe&logoColor=FFFFFF&label=) List of languages and tools that I know how to use
+### List of languages and tools that I know how to use
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
