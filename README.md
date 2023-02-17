@@ -1,5 +1,6 @@
 ###Hi there 👋
-List of languages and tools that I know how to use</h1>
+List of languages and tools that I know how to use
+
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 <div>
