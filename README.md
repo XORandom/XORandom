@@ -61,7 +61,6 @@
 ![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=0077FF&logo=VK&logoColor=FFFFFF&label=)
 
 <div>
-    <div>
     <div align=center>
         <h1>Github Stats</h1>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XORandom&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
