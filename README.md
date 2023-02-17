@@ -8,6 +8,8 @@
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 
 ![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
 ![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
@@ -22,6 +24,10 @@
 ![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)
 ![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
+![Spyder IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Spyder+IDE&color=FF0000&logo=Spyder+IDE&logoColor=FFFFFF&label=)
+![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
@@ -32,6 +38,7 @@
 
 ![MEGA](https://img.shields.io/static/v1?style=for-the-badge&message=MEGA&color=D9272E&logo=MEGA&logoColor=FFFFFF&label=)
 ![Pinterest](https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=BD081C&logo=Pinterest&logoColor=FFFFFF&label=)
+![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
 
 
 ![DuckDuckGo](https://img.shields.io/static/v1?style=for-the-badge&message=DuckDuckGo&color=DE5833&logo=DuckDuckGo&logoColor=FFFFFF&label=)
@@ -39,6 +46,12 @@
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Habr](https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
+![Reddit](https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=)
+![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=Skype&color=00AFF0&logo=Skype&logoColor=FFFFFF&label=)
+![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
+![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
+![VK](https://img.shields.io/static/v1?style=for-the-badge&message=VK&color=0077FF&logo=VK&logoColor=FFFFFF&label=)
 
 <div>
     <div>
