@@ -82,9 +82,5 @@
 <!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=XORandom&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-<div align='center'><a href='https://www.websitecounterfree.com'>
-    <img src='https://www.websitecounterfree.com/c.php?d=9&id=37717&s=36' border='0' alt=' '></a><br / ><small><a href='https://www.websitecounterfree.com' title=" ">
-</a></small></div>
-
 
 
