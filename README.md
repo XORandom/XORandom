@@ -82,7 +82,7 @@
 <!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=XORandom&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=38247&s=36' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=38247&s=36' border='0' alt=''></a><br / ><small><a href='https://www.websitecounterfree.com' title="">r</a></small></div>
 
 
 
