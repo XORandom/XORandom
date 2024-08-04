@@ -15,6 +15,7 @@
 [![Pygame Community Edition](https://img.shields.io/badge/Pygame_CE-c2fc20?style=for-the-badge&logo=python&logoColor=1e1e2c&labelColor=c2fc20)
 ](https://pyga.me/docs/)
 
+---
 
 ### Tools that I have experience working with.
 ![Adobe Acrobat Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Acrobat+Reader&color=EC1C24&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=)
