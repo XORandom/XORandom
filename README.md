@@ -6,6 +6,8 @@
 
 ### I recommend paying attention to the following tools
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
+[![Pixel Composer](https://img.shields.io/badge/Pixel-Composer-fc9066?style=for-the-badge&logoColor=fc9066&labelColor=ff9166&color=2d2d41&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2299510%2FPixel_Composer%2F)
+](https://store.steampowered.com/app/2299510/Pixel_Composer/)
 [![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)](https://github.com/audacity/audacity)
 [![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)](https://obsproject.com/)
 [![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)](https://obsidian.md/)
