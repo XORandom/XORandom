@@ -12,8 +12,8 @@
 [![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)](https://obsidian.md/)
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
 [![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm+Community+Edition&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)](https://www.jetbrains.com/ru-ru/pycharm/download/other.html)
-[![Pygame Community Edition](https://img.shields.io/badge/Pygame_CE-c2fc20?style=for-the-badge&logo=python&logoColor=1e1e2c&labelColor=c2fc20)
-](https://pyga.me/docs/)
+[![Pygame Community Edition](https://img.shields.io/badge/Pygame_Community_Edition-c2fc20?style=for-the-badge&logo=python&logoColor=1e1e2c&labelColor=c2fc20)
+](https://pyga.me/)
 
 ---
 
