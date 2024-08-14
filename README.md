@@ -81,6 +81,7 @@ I am currently working as a part-time indie game developer
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=XORandom&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
 </div>
 
+---
 
 <div align='center'>
     <a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=38247&s=36' border='0' alt=''></a>
@@ -89,4 +90,4 @@ I am currently working as a part-time indie game developer
     </small>
 </div>
 
----
+
