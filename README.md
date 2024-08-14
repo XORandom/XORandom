@@ -3,7 +3,7 @@
 I am currently working as a part-time indie game developer
 ```
 
-### List of languages and tools that I know how to use
+### ![#21A0A0](https://via.placeholder.com/10/21A0A0?text=+) List of languages and tools that I know how to use
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![GDScript](https://img.shields.io/badge/GDScript-ffffff?style=for-the-badge&color=74267b&link=https%3A%2F%2Fgdscript.com%2F)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
@@ -11,7 +11,7 @@ I am currently working as a part-time indie game developer
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=) 
 ![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 
-### I recommend paying attention to the following tools
+### ![#E43F6F](https://via.placeholder.com/10/E43F6F?text=+) I recommend paying attention to the following tools
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
 [![Pixel Composer](https://img.shields.io/badge/Pixel_Composer-2d2d41?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAHIAAAByCAMAAAC4A3VPAAAAGFBMVEUAAAD%2FkWUnJzYwLj0xMUNjRkaqaVb%2BkWYu51DrAAAAAnRSTlMAnI8qElcAAAMWSURBVGje7ZvNousgCIRrcMb3f%2BO7SNom8Q%2BM2MW5Lk9P8xWjMCC%2BXu8RQgjJaYQQwus%2B%2FHBf7I2YUkok4TJIppRSuJvI6Dp4MXQB8AP9IhcQY%2BQHuYr4Za4jfpghJaxCYkcuNDJGprTWyMPMkFJcOHZkPq8ybRRmtoCUbeqQPnKbPnrIbfNl5shtc2ZmSPFBylSk1KOkDmmeMbZ0ACWf2adI9MSHzEbGvuAZQgpIkkT%2BntlHwo7E6bHE7cdodJ0VKTc7rlA4IFGdqPLHh3Z8gETj5eSfv2cAHEeiuSBu%2F8BY%2BaIFWV0csfBoVpeABVndAcyRrG8fAzJ299oXyXwzjyAb25x3ZGy4QgNS4TlRNfL0fT0yKrwYCns1M1OPbHoWlp76GMmnyM0TyT%2BBnDWxluUjc5aPPN0knOsKtr4rkAHvA4PDQ91IC7IxszH7VVJXm5bgBUPwujNlUBWwI4cvP0pqesKEFIsQOf35Kgs95daut%2BSmtqyiUmgTlTOkc2aIbO7ITU7PzbISBZFDmZcAJBG3RWlQO4PWGjkxpRUlcSKyvYROedpMpLkK8%2BeROEoEhQEXJKjZbTORUO7weUhRe5VpSKp956Vcw%2BPYbASpiRDSCHPwQbYrQHiKZKGgg3ZEwRPku7wiqD2T%2FfVlQZ7rOZcXhl7UxCCS1biBbiyJQ0jWYxW6aoRDyIb2QN9RxQEkGjoAfclFO5KtvBGKYo0d2aznQBEAYEbGVg0ACndsR5aDAvVI%2FkcWkbL%2BXaJ1AuSzYvl0kwx4H2mUdn28T8nMrNZDlXDQu3X0I0nUzKslXtYP1tDNazGoCqqqCr30ncPa56tEYkU4Snda7Qpv7yFjfW00j6F9dGxeH6K7dK6cK87NSVL9BLmUlHSRsBp5PBcAZDC%2F7JrJ%2BVk05xJ1x2ykpp4zAfmDTpgf9Pv4mCntRirxJRbbxcSVWG6KizKRmnXi8Vfdhr9Arm7jXGvmz1pyFzLfxFdIq6Y2nVu6V9iJc4P%2Bkl55Xq8E7FcQHC1Fdgnhc9GCLqN81cL9dkfhQslxicVrnDD%2FACi90N3dsVz0AAAAAElFTkSuQmCC&logoColor=FFFFFF)](https://pixel-composer.com/)
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
@@ -28,7 +28,7 @@ I am currently working as a part-time indie game developer
 
 ---
 
-### Tools that I have experience working with.
+### ![#efefef](https://via.placeholder.com/10/efefef?text=+) Tools that I have experience working with.
 ![Adobe Acrobat Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Acrobat+Reader&color=EC1C24&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
@@ -55,7 +55,7 @@ I am currently working as a part-time indie game developer
 ![Microsoft Visio](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Visio&color=3955A3&logo=Microsoft+Visio&logoColor=FFFFFF&label=)
 ![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
 
-### My favorite operating systems
+### ![#122a93](https://via.placeholder.com/10/122a93?text=+) My favorite operating systems
 ![Windows 10 Pro Freeware](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10+Pro+Freeware&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) 
 ![Windows XP](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+XP&color=003399&logo=Windows+XP&logoColor=FFFFFF&label=)
 ![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
@@ -63,7 +63,7 @@ I am currently working as a part-time indie game developer
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-### Favorite sources of information and inspiration
+### ![#c31a0f](https://via.placeholder.com/10/c31a0f?text=+) Favorite sources of information and inspiration
 ![Reddit](https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=)
 ![Habr](https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=)
 ![MEGA](https://img.shields.io/static/v1?style=for-the-badge&message=MEGA&color=D9272E&logo=MEGA&logoColor=FFFFFF&label=)
