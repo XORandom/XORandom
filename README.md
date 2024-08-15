@@ -1,5 +1,5 @@
 ## Hi there 👋
-```diff
+```
 I am currently working as a part-time indie game developer
 ```
 ---
