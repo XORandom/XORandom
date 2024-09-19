@@ -49,6 +49,7 @@ I am currently working as a part-time indie game developer
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
+![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
 ![Wolfram Mathematica](https://img.shields.io/static/v1?style=for-the-badge&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=)
 
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
@@ -61,7 +62,6 @@ I am currently working as a part-time indie game developer
 ### ![](https://via.placeholder.com/10/122a93?text=+) My favorite operating systems
 ![Windows 10 Pro Freeware](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10+Pro+Freeware&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) 
 ![Windows XP](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+XP&color=003399&logo=Windows+XP&logoColor=FFFFFF&label=)
-![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
