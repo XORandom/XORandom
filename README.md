@@ -64,8 +64,6 @@ I am currently working as a part-time indie game developer
 ### ![](https://via.placeholder.com/10/122a93?text=+) My favorite operating systems
 ![Windows 10 Pro Freeware](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10+Pro+Freeware&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) 
 ![Windows XP](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+XP&color=003399&logo=Windows+XP&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ### ![](https://via.placeholder.com/10/c31a0f?text=+) Favorite sources of information and inspiration
