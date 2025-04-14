@@ -2,8 +2,13 @@
 ```
 I am currently working as a part-time indie game developer
 ```
-
-
+```mermaid 
+pie title 
+    "Work" : 6
+    "Gamedev" : 4
+    "Programming" : 5
+    "Art" : 1
+```
 ---
 
 
@@ -28,6 +33,7 @@ I am currently working as a part-time indie game developer
 [![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)](https://obsproject.com/)
 [![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)](https://obsidian.md/)
 
+[![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](https://code.visualstudio.com/)
 [![PyCharm Community Edition](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm+Community+Edition&color=ff8819&logo=PyCharm&logoColor=000000&label=)](https://www.jetbrains.com/ru-ru/pycharm/download/other.html)
 [![Pygame Community Edition](https://img.shields.io/badge/Pygame_Community_Edition-6807cf?style=for-the-badge&logo=python&logoColor=c2fc20)](https://pyga.me/)
 
@@ -49,7 +55,6 @@ I am currently working as a part-time indie game developer
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
 ![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
 ![Wolfram Mathematica](https://img.shields.io/static/v1?style=for-the-badge&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=)
